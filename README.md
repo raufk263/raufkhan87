@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raufkhan87
-- 👀 I’m interested in projects in C++ 
+- 👀 I’m interested in projects of C++ 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on raufk263@gmail.com
